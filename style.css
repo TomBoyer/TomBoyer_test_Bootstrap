@@ -1,0 +1,62 @@
+/* reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  /* overflow: hidden; */
+}
+
+body {
+  position: relative;
+
+  font-family: var(--font1);
+
+  background-color: var(--color-3);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+html {
+  font-size: 16px;
+  font-family: var(--font1);
+}
+
+/* reset */
+
+/* variables */
+:root {
+  --color-1: ;
+  --color-2: ;
+  --color-3: ;
+  --color-4: ;
+  --color-5: ;
+  --color-6: ;
+  --color-7: ;
+
+  --color-1-clr: ;
+  --color-2-clr: ;
+  --color-3-clr: ;
+  --color-4-clr: ;
+
+  --color-white: #ffffff;
+
+  --box-shadow-1: rgba(0, 0, 0, 0.12) 0px 1px 3px,
+    rgba(0, 0, 0, 0.24) 0px 1px 2px;
+
+  --duration1: 0.2s;
+  --duration2: 0.8s;
+
+  --font1: "Poppins", sans-serif;
+  --font2: "Raleway", sans-serif;
+  --font3: "Hind Vadodara", sans-serif;
+}
+
+/* variables */
+
+/* typo */
+/* typo */
+
